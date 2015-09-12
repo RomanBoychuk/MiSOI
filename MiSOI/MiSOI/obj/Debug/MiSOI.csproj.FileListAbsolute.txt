@@ -1,0 +1,18 @@
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\bin\Debug\MiSOI.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.Form1.resources
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.Properties.Resources.resources
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.csproj.GenerateResource.Cache
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\bin\Debug\MiSOI.exe
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\bin\Debug\MiSOI.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.exe
+c:\users\unknown\documents\visual studio 2012\Projects\MiSOI\MiSOI\obj\Debug\MiSOI.pdb
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\bin\Debug\MiSOI.exe.config
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.exe
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.pdb
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\bin\Debug\MiSOI.exe
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\bin\Debug\MiSOI.pdb
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.csprojResolveAssemblyReference.cache
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.Form1.resources
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.Properties.Resources.resources
+E:\5_курс\МиСои\Лабы\MiSOI\MiSOI\obj\Debug\MiSOI.csproj.GenerateResource.Cache
